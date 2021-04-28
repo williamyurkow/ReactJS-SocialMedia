@@ -1,4 +1,4 @@
-const postsResolvers = require('./posts')
+const postsResolvers = require('./post')
 const usersResolvers = require('./users')
 
 module.exports = {
